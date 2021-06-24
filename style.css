@@ -209,11 +209,11 @@ body {
     border-top-right-radius: .3rem;
     border-top-left-radius: .3rem; }
     .card__picture-1 {
-      background-image: linear-gradient(to right bottom, #9000d3, #1f0142), url("/images/photo 1.jpg"); }
+      background-image: linear-gradient(to right bottom, #9000d3, #1f0142), url("photo 1.jpg"); }
     .card__picture-2 {
-      background-image: linear-gradient(to right bottom, #ffb900, #ff7730), url("/images/photo 2.jpg"); }
+      background-image: linear-gradient(to right bottom, #ffb900, #ff7730), url("photo 2.jpg"); }
     .card__picture-3 {
-      background-image: linear-gradient(to right bottom, #2998ff, #5643fa), url("/images/photo 3.jpg"); }
+      background-image: linear-gradient(to right bottom, #2998ff, #5643fa), url("photo 3.jpg"); }
   .card__heading {
     position: absolute;
     font-size: 2.8rem;
@@ -548,7 +548,7 @@ body {
   height: 93vh;
   width: 100%;
   position: relative;
-  background-image: linear-gradient(to right bottom, rgba(125, 1, 182, 0.795), rgba(42, 2, 87, 0.795)), url("/images/bg.jpg");
+  background-image: linear-gradient(to right bottom, rgba(125, 1, 182, 0.795), rgba(42, 2, 87, 0.795)), url("bg.jpg");
   background-size: cover;
   background-position: center;
   clip-path: polygon(0 0, 100% 0, 100% 73vh, 0 100%); }
@@ -682,7 +682,7 @@ body {
 
 .feature-section {
   padding: 20rem 0;
-  background-image: linear-gradient(to right bottom, rgba(125, 1, 182, 0.795), rgba(42, 2, 87, 0.795)), url("/images/bg.jpg");
+  background-image: linear-gradient(to right bottom, rgba(125, 1, 182, 0.795), rgba(42, 2, 87, 0.795)), url("bg.jpg");
   background-size: cover;
   background-position: center;
   transform: skewY(-7deg); }
@@ -704,7 +704,7 @@ body {
 
 .book {
   height: 47rem;
-  background-image: linear-gradient(105deg, rgba(255, 255, 255, 0.8) 0%, rgba(255, 255, 255, 0.9) 50%, transparent 50%), url("/images/book bg.jpg");
+  background-image: linear-gradient(105deg, rgba(255, 255, 255, 0.8) 0%, rgba(255, 255, 255, 0.9) 50%, transparent 50%), url("book bg.jpg");
   background-size: cover;
   box-shadow: 0 1.5rem 4rem rgba(0, 0, 0, 0.6);
   border-radius: .3rem; }
